@@ -14,12 +14,3 @@ A classe possui os seguintes atributos:
 ## Método Principal
 
 - `salario_mensal(mes)`: retorna o salário do funcionário para o mês informado, calculando a partir das horas trabalhadas e do salário por hora correspondentes.
-
----
-
-## Organização dos Arquivos
-
-O projeto será organizado em dois arquivos:
-
-- Um arquivo contendo a definição da classe `Funcionário`.
-- Outro arquivo para a execução e testes dos métodos da classe.
